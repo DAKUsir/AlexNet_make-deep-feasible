@@ -172,10 +172,4 @@ model.eval()
 
 * CSE Student | AI Enthusiast | Kaggle Contributor
 * Linkedin: https://www.linkedin.com/in/aditya-chauhan-async/
-
-```
-
-
-
-Do you want me to do that?
-```
+---
